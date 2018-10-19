@@ -21,7 +21,6 @@
         android:alpha="0.9"
         android:background="@drawable/start_button"
         android:clickable="false"
-        android:onClick="startPressed"
         android:scaleType="fitXY"
         android:visibility="gone"
         />
